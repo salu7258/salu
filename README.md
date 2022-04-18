@@ -5,6 +5,6 @@
 - 📫 How to reach me salukumari0124@gmail.com
 
 <!---
-salu6066/salu6066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+salukumari/salukumari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
