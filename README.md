@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salukumari
+- 👋 Hi, I’m @salu_kumari
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on projects
